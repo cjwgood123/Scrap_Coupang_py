@@ -1,0 +1,17 @@
+# Git Bash에서 실행할 명령어 (순서대로 복사해서 실행)
+
+# 1. 가상환경 생성
+py -m venv venv
+
+# 2. 가상환경 활성화
+source venv/Scripts/activate
+
+# 3. pip 업그레이드 (선택사항)
+python -m pip install --upgrade pip
+
+# 4. 패키지 설치
+pip install -r requirements.txt
+
+# 5. 실행
+python coupang_scraper_final.py
+

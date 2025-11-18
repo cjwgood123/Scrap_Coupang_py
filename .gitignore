@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Chrome 관련
+chrome_cookie/
+chrome_user_profile/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+
+# 데이터베이스
+*.db
+*.sqlite
+*.sqlite3
+
+# 환경 변수
+.env
+.env.local
+
