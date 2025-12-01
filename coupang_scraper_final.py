@@ -39,7 +39,7 @@ except ImportError:
 
 
 DB_CONFIG = {
-    "host": "3.88.110.157",
+    "host": "98.91.24.103",
     "port": 3306,
     "user": "cphuser",
     "password": "cphpw123",

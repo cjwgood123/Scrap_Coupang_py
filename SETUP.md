@@ -13,7 +13,10 @@
 3. **인터넷 연결**
    - 패키지 다운로드 및 스크래핑에 필요합니다.
 
----
+--- 
+
+## VENV 명령어   
+source venv/Scripts/activate
 
 ## 🚀 빠른 시작 (Windows)
 
@@ -128,7 +131,7 @@ python coupang_scraper_final.py
 
 ```python
 DB_CONFIG = {
-    "host": "3.88.110.157",
+    "host": "98.91.24.103",
     "port": 3306,
     "user": "cphuser",
     "password": "cphpw123",
